@@ -61,6 +61,7 @@ mindset: rigorous, autonomous, curious about how systems actually break
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -102,7 +103,7 @@ Simulated smart-home system with real-time monitoring via Node-RED dashboards; a
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=the-evilyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-evilyn&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=the-evilyn&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-evilyn&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
 
