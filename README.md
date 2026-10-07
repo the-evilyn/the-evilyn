@@ -43,3 +43,25 @@
 ║        > current_mode         : BUILDING + SECURING                 ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
+
+
+SALMA EL FAHDI
+──────────────────────────────────────────────────────────────────────
+
+4th-year Computer Engineering Student
+ENSI Tanger · Morocco
+
+FOCUS
+├── Cybersecurity
+├── Cloud / DevSecOps
+└── Data & AI
+
+OBJECTIVE
+└── PFA Internship · Software Development · Cybersecurity
+
+INTERESTS
+├── Secure Systems
+├── Network Security
+├── Cloud Infrastructure
+├── CI/CD Security
+└── Artificial Intelligence
